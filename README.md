@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @Pastoray
-- 👀 I’m interested in coding 👨‍💻
-- 🌱 I’m currently learning web & browser quirks and enhancing my programming knowledge 📖
-- 💞️ I’m looking to collaborate with anyone 😁
+
