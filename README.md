@@ -2,9 +2,11 @@
 
 > "What I cannot create, I do not understand." — Richard Feynman
 
-I'm a systems and infrastructure engineer and open source contributor. I like working close to the metal, my curiosity doesn't stay in one lane, I'm drawn to whatever problem is hard, unfamiliar, or under-explained.
+I believe technology is the single greatest creation of the human mind, completely redefining the limits of what we can achieve.
 
-Most of what I know came from building things and breaking them until I understood why. That habit has taken me through compilers, debuggers, storage engines, and networking, and it's the part of the work I care about most.
+I am a systems and infrastructure engineer, an open-source contributor, and a builder by nature. My curiosity doesn't stay in one lane. I have an obsessive drive to explore new things, which has led me to dive deep into a vast array of languages, architectures, and tech stacks. If a problem is complex, unfamiliar, or under-explained, I solve it.
+
+Every project I build is another step toward a simple goal: demystify complex systems and turn raw curiosity into tools that create meaningful impact.
 
 ---
 
