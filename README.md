@@ -30,7 +30,7 @@ Every project I build is another step toward a simple goal: demystify complex sy
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" height="50" title="Rust" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="50" title="Python" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="50" title="JavaScript" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" height="50" title="Bash" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="50" title="Java" />
   <br/>
   <!-- Infrastructure, Networking & Databases -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="50" title="Linux/POSIX" />
