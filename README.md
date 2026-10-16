@@ -30,11 +30,11 @@ Most of what I know came from building things and breaking them until I understo
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="50" title="JavaScript" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" height="50" title="Bash" />
   <br/>
-  <!-- Infrastructure & Networking -->
+  <!-- Infrastructure, Networking & Databases -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="50" title="Linux/POSIX" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" height="50" title="Docker" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg" height="50" title="Kubernetes" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grpc/grpc-original.svg" height="50" title="gRPC" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" height="50" title="PostgreSQL" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" height="50" title="Prometheus" />
   <br/>
   <!-- Tooling -->
